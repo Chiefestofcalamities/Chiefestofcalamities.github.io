@@ -1,3 +1,3 @@
-## Javier's Portfolio
+# Repository for Activities 9.1 and 9.2
 
-#Chiefestofcalamities.github.io
+###Chiefestofcalamities.github.io
